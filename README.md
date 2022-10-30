@@ -27,7 +27,7 @@
 
      }
      
-     document.getElementById("loop_the_array").innerHTML= "Thank you for visiting this webpage";
+     document.getElementById("loop_the_array").innerHTML= "Thank you for visiting this webpage"
         
     
         
